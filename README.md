@@ -20,4 +20,9 @@ Este é um projeto simples que implementa a Cifra de César, um algoritmo de cri
 
 3. Siga as instruções no terminal para criptografar ou descriptografar mensagens.
 
-### Necessario interpretador python 3 baixado na maquina.
+
+## Contribuição
+Contribuições são bem-vindas! Se você quiser melhorar o projeto, crie um fork, faça as alterações e envie um pull request.
+
+
+### Necessario interpretador python 3 baixado na maquina.###
