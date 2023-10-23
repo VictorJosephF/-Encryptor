@@ -8,3 +8,13 @@ Este é um projeto simples que implementa a Cifra de César, um algoritmo de cri
 - Descriptografar uma mensagem criptografada
 - Suporta letras maiúsculas e minúsculas
 - Ignora caracteres que não são letras (espaços, números, símbolos)
+
+- ## Como usar
+
+1. Clone o repositório:
+   
+   git clone git@github.com:VictorJosephF/-Encryptor.git
+3. Abra o CMD na pasta do repositorio clonado execute a aplicação:
+   
+   ![image](https://github.com/VictorJosephF/-Encryptor/assets/68386487/64e3b601-4b53-442f-9ac9-8f2990cdbbcc)
+
